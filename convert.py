@@ -1,6 +1,6 @@
 import os, json, io
 
-ROOT = r"C:\code\Remundo.Pricing.Europe"
+ROOT = r"$/repo" # You can limit this to a specific folder like I have done
 OUT  = "code_dataset.jsonl"
 
 # what to include
@@ -16,7 +16,7 @@ SKIP_DIRS = {
     "__pycache__",".venv","venv",".terraform",".next",".svelte-kit","coverage",
     "agent"
 }
-SKIP_FILES = {"package-lock.json","pnpm-lock.yaml","yarn.lock",".DS_Store"}
+SKIP_FILES = {"package-lock.json","pnpm-lock.yaml","yarn.lock",".DS_Store", "appsettings.json", "appsettings.Development.json", ".npmrc"}
 
 # basic guards
 MAX_FILE_BYTES = 2_000_000   # 2MB per file
