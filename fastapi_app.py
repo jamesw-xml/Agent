@@ -4,7 +4,7 @@ import threading
 from typing import List, Optional, Dict, Any
 
 import torch
-from fastapi import FastAPI, HTTPException
+from server import FastAPI, HTTPException
 from pydantic import BaseModel, Field
 
 from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline

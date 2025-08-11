@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+.mpypy_cache/
+llama3-code/
+*.jsonl
+*.faiss
+*.npy
