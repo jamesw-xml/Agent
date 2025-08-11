@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\code\\Agent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{397B7DC3-7387-451A-8289-0F4AF65D65B3}|CodeAi.Api\\CodeAi.Api.csproj|c:\\code\\agent\\codeai.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397B7DC3-7387-451A-8289-0F4AF65D65B3}|CodeAi.Api\\CodeAi.Api.csproj|solutionrelative:codeai.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D09863-B23E-48C5-AEA9-481328AB5B3C}|CodeAi.Shared\\CodeAi.Shared.csproj|c:\\code\\agent\\codeai.shared\\embeddings\\ollamaclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D09863-B23E-48C5-AEA9-481328AB5B3C}|CodeAi.Shared\\CodeAi.Shared.csproj|solutionrelative:codeai.shared\\embeddings\\ollamaclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397B7DC3-7387-451A-8289-0F4AF65D65B3}|CodeAi.Api\\CodeAi.Api.csproj|c:\\code\\agent\\codeai.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{397B7DC3-7387-451A-8289-0F4AF65D65B3}|CodeAi.Api\\CodeAi.Api.csproj|solutionrelative:codeai.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BE4D3B5-78C1-4A7A-AF4B-AE26B7742C13}|CodeAi.Indexer\\CodeAi.Indexer.csproj|c:\\code\\agent\\codeai.indexer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BE4D3B5-78C1-4A7A-AF4B-AE26B7742C13}|CodeAi.Indexer\\CodeAi.Indexer.csproj|solutionrelative:codeai.indexer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397B7DC3-7387-451A-8289-0F4AF65D65B3}|CodeAi.Api\\CodeAi.Api.csproj|c:\\code\\agent\\codeai.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{397B7DC3-7387-451A-8289-0F4AF65D65B3}|CodeAi.Api\\CodeAi.Api.csproj|solutionrelative:codeai.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BE4D3B5-78C1-4A7A-AF4B-AE26B7742C13}|CodeAi.Indexer\\CodeAi.Indexer.csproj|c:\\code\\agent\\codeai.indexer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2BE4D3B5-78C1-4A7A-AF4B-AE26B7742C13}|CodeAi.Indexer\\CodeAi.Indexer.csproj|solutionrelative:codeai.indexer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D09863-B23E-48C5-AEA9-481328AB5B3C}|CodeAi.Shared\\CodeAi.Shared.csproj|c:\\code\\agent\\codeai.shared\\search\\esfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D09863-B23E-48C5-AEA9-481328AB5B3C}|CodeAi.Shared\\CodeAi.Shared.csproj|solutionrelative:codeai.shared\\search\\esfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D09863-B23E-48C5-AEA9-481328AB5B3C}|CodeAi.Shared\\CodeAi.Shared.csproj|c:\\code\\agent\\codeai.shared\\models\\chunkdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D09863-B23E-48C5-AEA9-481328AB5B3C}|CodeAi.Shared\\CodeAi.Shared.csproj|solutionrelative:codeai.shared\\models\\chunkdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BE4D3B5-78C1-4A7A-AF4B-AE26B7742C13}|CodeAi.Indexer\\CodeAi.Indexer.csproj|c:\\code\\agent\\codeai.indexer\\codeai.indexer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2BE4D3B5-78C1-4A7A-AF4B-AE26B7742C13}|CodeAi.Indexer\\CodeAi.Indexer.csproj|solutionrelative:codeai.indexer\\codeai.indexer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\code\\Agent\\CodeAi.Api\\Program.cs",
+              "RelativeDocumentMoniker": "CodeAi.Api\\Program.cs",
+              "ToolTip": "C:\\code\\Agent\\CodeAi.Api\\Program.cs",
+              "RelativeToolTip": "CodeAi.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T12:19:52.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\code\\Agent\\CodeAi.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "CodeAi.Api\\appsettings.json",
+              "ToolTip": "C:\\code\\Agent\\CodeAi.Api\\appsettings.json",
+              "RelativeToolTip": "CodeAi.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-10T12:19:37.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\code\\Agent\\CodeAi.Indexer\\appsettings.json",
+              "RelativeDocumentMoniker": "CodeAi.Indexer\\appsettings.json",
+              "ToolTip": "C:\\code\\Agent\\CodeAi.Indexer\\appsettings.json",
+              "RelativeToolTip": "CodeAi.Indexer\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAC1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-10T12:13:39.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\code\\Agent\\CodeAi.Indexer\\Program.cs",
+              "RelativeDocumentMoniker": "CodeAi.Indexer\\Program.cs",
+              "ToolTip": "C:\\code\\Agent\\CodeAi.Indexer\\Program.cs",
+              "RelativeToolTip": "CodeAi.Indexer\\Program.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAkwH0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T12:14:08.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OllamaClient.cs",
+              "DocumentMoniker": "C:\\code\\Agent\\CodeAi.Shared\\Embeddings\\OllamaClient.cs",
+              "RelativeDocumentMoniker": "CodeAi.Shared\\Embeddings\\OllamaClient.cs",
+              "ToolTip": "C:\\code\\Agent\\CodeAi.Shared\\Embeddings\\OllamaClient.cs",
+              "RelativeToolTip": "CodeAi.Shared\\Embeddings\\OllamaClient.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T12:13:05.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChunkDocument.cs",
+              "DocumentMoniker": "C:\\code\\Agent\\CodeAi.Shared\\Models\\ChunkDocument.cs",
+              "RelativeDocumentMoniker": "CodeAi.Shared\\Models\\ChunkDocument.cs",
+              "ToolTip": "C:\\code\\Agent\\CodeAi.Shared\\Models\\ChunkDocument.cs",
+              "RelativeToolTip": "CodeAi.Shared\\Models\\ChunkDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T12:17:09.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EsFactory.cs",
+              "DocumentMoniker": "C:\\code\\Agent\\CodeAi.Shared\\Search\\EsFactory.cs",
+              "RelativeDocumentMoniker": "CodeAi.Shared\\Search\\EsFactory.cs",
+              "ToolTip": "C:\\code\\Agent\\CodeAi.Shared\\Search\\EsFactory.cs",
+              "RelativeToolTip": "CodeAi.Shared\\Search\\EsFactory.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T12:14:27.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CodeAi.Indexer.csproj",
+              "DocumentMoniker": "C:\\code\\Agent\\CodeAi.Indexer\\CodeAi.Indexer.csproj",
+              "RelativeDocumentMoniker": "CodeAi.Indexer\\CodeAi.Indexer.csproj",
+              "ToolTip": "C:\\code\\Agent\\CodeAi.Indexer\\CodeAi.Indexer.csproj",
+              "RelativeToolTip": "CodeAi.Indexer\\CodeAi.Indexer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-10T13:20:56.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\code\\Agent\\CodeAi.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CodeAi.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\code\\Agent\\CodeAi.Api\\appsettings.Development.json",
+              "RelativeToolTip": "CodeAi.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-10T12:45:00.478Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
