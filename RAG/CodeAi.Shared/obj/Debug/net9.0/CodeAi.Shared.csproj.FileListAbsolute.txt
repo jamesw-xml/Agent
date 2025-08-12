@@ -1,0 +1,12 @@
+C:\code\Agent\CodeAi.Shared\bin\Debug\net9.0\CodeAi.Shared.deps.json
+C:\code\Agent\CodeAi.Shared\bin\Debug\net9.0\CodeAi.Shared.dll
+C:\code\Agent\CodeAi.Shared\bin\Debug\net9.0\CodeAi.Shared.pdb
+C:\code\Agent\CodeAi.Shared\obj\Debug\net9.0\CodeAi.Shared.csproj.AssemblyReference.cache
+C:\code\Agent\CodeAi.Shared\obj\Debug\net9.0\CodeAi.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\Agent\CodeAi.Shared\obj\Debug\net9.0\CodeAi.Shared.AssemblyInfoInputs.cache
+C:\code\Agent\CodeAi.Shared\obj\Debug\net9.0\CodeAi.Shared.AssemblyInfo.cs
+C:\code\Agent\CodeAi.Shared\obj\Debug\net9.0\CodeAi.Shared.csproj.CoreCompileInputs.cache
+C:\code\Agent\CodeAi.Shared\obj\Debug\net9.0\CodeAi.Shared.dll
+C:\code\Agent\CodeAi.Shared\obj\Debug\net9.0\refint\CodeAi.Shared.dll
+C:\code\Agent\CodeAi.Shared\obj\Debug\net9.0\CodeAi.Shared.pdb
+C:\code\Agent\CodeAi.Shared\obj\Debug\net9.0\ref\CodeAi.Shared.dll
